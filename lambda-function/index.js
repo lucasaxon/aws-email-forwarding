@@ -11,7 +11,11 @@ var defaultConfig = {
   //emailKeyPrefix: "emailsPrefix/",
    emailKeyPrefix: "",
   forwardMapping: {
-    "lucas@axonpagoseguro.com": [
+   // "lucas@axonpagoseguro.com": [
+    //  "lucasmarionilm@gmail.com",
+    //  "operador236.axont@gmail.com"
+//    ],
+    "larry@axonpagoseguro.com": [
       "lucasmarionilm@gmail.com"
     ]
   }
